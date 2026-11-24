@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+Real-life patch notes.
+
+![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00) ![License MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris_Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+
+</div>
+
 # patch-notes-01
 
 [![make.fun · u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
